@@ -1,6 +1,5 @@
+<h1 align="center">Lamparita</h1>
 <p align="center"><img src="https://img.shields.io/badge/STATUS-FINALIZADO-green"></p>
-
-# Lamparita
 
 ## Descripcion del proyecto:
 Este fue uno de mis primeros proyectos. Una lampatita que podes prender y apagar.
